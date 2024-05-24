@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5/weather';
-const WEATHER_API_KEY = '2c77ce91a1778e9c862213ded1cb6bcd2'; // Replace with your OpenWeatherMap API key
+const WEATHER_API_KEY = 'your_api_key'; // Replace with your OpenWeatherMap API key
 
 export const getFlightData = async () => {
   // Mocking global flight data
