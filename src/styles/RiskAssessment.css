@@ -1,0 +1,20 @@
+.risk-assessment {
+    margin-top: 20px;
+  }
+  
+  .risk-assessment h2 {
+    color: #003366;
+    margin-bottom: 10px;
+  }
+  
+  .risk-details {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .risk-details p {
+    margin: 5px 0;
+  }
+  
